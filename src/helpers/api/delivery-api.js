@@ -1,5 +1,5 @@
 import axiosInstance from "@/lib/axiosInstance";
-import { deliveryApi } from "@/lib/apiConstants";
+import { deliveryApi } from "@/lib/APIconstants";
 
 
 
